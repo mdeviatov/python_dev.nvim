@@ -9,6 +9,13 @@
 - Code complete and IntelliSense
 - Welcome screen by Startify plugin
 
+## Useful key bindings
+
+#### Buffer navigation
+ - `<Space-[>` / `<Space-]>`								: switch between buffers
+ - `<Space-d>`															: delete current buffer
+ - `<Space-v>`															: open nvim configuration file						
+
 ## Plugins
 
 ### Several most liked themes
