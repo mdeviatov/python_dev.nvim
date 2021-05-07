@@ -19,45 +19,48 @@
 'jonathanfilip/vim-lucius',
 'mhartington/oceanic-next',
 
-### Plugin for code commenting
 
+### Plugin for code commenting
 Key: `<Leader-/>`
 
 'tpope/vim-commentary'
 
-### Tagbar. Helps to quickly navigate Python objects
 
+### Tagbar. Helps to quickly navigate Python objects
 Key: `<F8>`
 
 'preservim/tagbar'
 
-*Full path fuzzy file, buffer, mru, tag, ... finder for Vim*
+
+### Full path fuzzy file, buffer, mru, tag, ... finder for Vim
 Key: `<Ctrl-p>`
 
 'ctrlpvim/ctrlp.vim'
 
-*Place virtualenv status to statusline*
+### Place virtualenv status to statusline
 'jmcantrell/vim-virtualenv'
 
-*Snippets*
+### Snippets
 'SirVer/ultisnips'
 'honza/vim-snippets'
 
-*Language Server*
+### Language Server
 'neoclide/coc.nvim'
 
-*Welcome screen with amazing navigation features*
+### Welcome screen with amazing navigation features
 'mhinz/vim-startify'
 
-*Plugin for Google Translate*
+### Plugin for Google Translate
 Key: `<Ctrl-t>`, `<Ctrl-w>`, `<Ctrl-x>`
+
 'voldikss/vim-translator'
 
-*World-famous file manager for Vim ;)*
+### World-famous file manager for Vim ;)
 Key: `<Ctrl-b>`
+
 'scrooloose/nerdtree'
 
-*Adds filetype glyphs (icons) to various vim plugins*
+### Adds filetype glyphs (icons) to various vim plugins
 'ryanoasis/vim-devicons' 
 
 --
