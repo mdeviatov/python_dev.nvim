@@ -11,59 +11,52 @@
 
 ## Plugins
 
-> Several most liked themes
+*Several most liked themes*
 
-- 'vim-airline/vim-airline-themes'
-- 'vim-airline/vim-airline'
-- 'joshdick/onedark.vim'
-- 'jonathanfilip/vim-lucius'
-- 'mhartington/oceanic-next'
+'vim-airline/vim-airline-themes'
+'vim-airline/vim-airline'
+'joshdick/onedark.vim'
+'jonathanfilip/vim-lucius'
+'mhartington/oceanic-next'
 
-> Plugin for code commenting.
-> Key: `<Leader-/>`
+*Plugin for code commenting*
+Key: `<Leader-/>`
 
-- 'tpope/vim-commentary'
+'tpope/vim-commentary'
 
-> Tagbar. Helps to quickly navigate Python objects.
-> Key: `<F8>`
+*Tagbar. Helps to quickly navigate Python objects*
+Key: `<F8>`
 
-- 'preservim/tagbar'
+'preservim/tagbar'
 
-> Full path fuzzy file, buffer, mru, tag, ... finder for Vim
-> Key: `<Ctrl-p>`
+*Full path fuzzy file, buffer, mru, tag, ... finder for Vim*
+Key: `<Ctrl-p>`
 
-- 'ctrlpvim/ctrlp.vim'
+'ctrlpvim/ctrlp.vim'
 
-> Place virtualenv status to statusline
+*Place virtualenv status to statusline*
+'jmcantrell/vim-virtualenv'
 
- - 'jmcantrell/vim-virtualenv'
+*Snippets*
+'SirVer/ultisnips'
+'honza/vim-snippets'
 
-> Snippets
+*Language Server*
+'neoclide/coc.nvim'
 
-- 'SirVer/ultisnips'
-- 'honza/vim-snippets'
+*Welcome screen with amazing navigation features*
+'mhinz/vim-startify'
 
-> Language Server
+*Plugin for Google Translate*
+Key: `<Ctrl-t>`, `<Ctrl-w>`, `<Ctrl-x>`
+'voldikss/vim-translator'
 
-- 'neoclide/coc.nvim'
+*World-famous file manager for Vim ;)*
+Key: `<Ctrl-b>`
+'scrooloose/nerdtree'
 
-> Welcome screen with amazing navigation features
-
-- 'mhinz/vim-startify'
-
-> Plugin for Google Translate
-> Key: `<Ctrl-t>`, `<Ctrl-w>`, `<Ctrl-x>`
-
-- 'voldikss/vim-translator'
-
-> World-famous file manager for Vim ;)
-> Key: `<Ctrl-b>`
-
-- 'scrooloose/nerdtree'
-
-> Adds filetype glyphs (icons) to various vim plugins
-
-- 'ryanoasis/vim-devicons' 
+*Adds filetype glyphs (icons) to various vim plugins*
+'ryanoasis/vim-devicons' 
 
 --
 wbr, Maxim Deviatov
