@@ -12,9 +12,16 @@
 ## Useful key bindings
 
 #### Buffer navigation
- - `<Space-[>` / `<Space-]>`								: switch between buffers
+ - `<Space-[>` or `<Space-]>`								: switch between buffers
  - `<Space-d>`															: delete current buffer
  - `<Space-v>`															: open nvim configuration file						
+ - `<Space-sv>`															: reload all Vim configuration files
+ - `<gf>`																		: open file under cursor
+
+#### Coding
+ - `<F9>`																		: Run Python code
+ - `<F5>`																		: toggle Tagbar
+ - `<Ctrl-p>`																: Fuzzy search in MRU, buffers, files
 
 ## Plugins
 
