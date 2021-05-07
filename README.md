@@ -11,15 +11,15 @@
 
 ## Plugins
 
-**Several most liked themes**
+### Several most liked themes
 
-'vim-airline/vim-airline-themes'
-'vim-airline/vim-airline'
-'joshdick/onedark.vim'
-'jonathanfilip/vim-lucius'
-'mhartington/oceanic-next'
+'vim-airline/vim-airline-themes',
+'vim-airline/vim-airline',
+'joshdick/onedark.vim',
+'jonathanfilip/vim-lucius',
+'mhartington/oceanic-next',
 
-**Plugin for code commenting**
+### Plugin for code commenting
 
 Key: `<Leader-/>`
 
