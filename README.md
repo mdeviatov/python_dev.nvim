@@ -11,7 +11,7 @@
 
 ## Plugins
 
-*Several most liked themes*
+**Several most liked themes**
 
 'vim-airline/vim-airline-themes'
 'vim-airline/vim-airline'
@@ -19,12 +19,14 @@
 'jonathanfilip/vim-lucius'
 'mhartington/oceanic-next'
 
-*Plugin for code commenting*
+**Plugin for code commenting**
+
 Key: `<Leader-/>`
 
 'tpope/vim-commentary'
 
-*Tagbar. Helps to quickly navigate Python objects*
+### Tagbar. Helps to quickly navigate Python objects
+
 Key: `<F8>`
 
 'preservim/tagbar'
